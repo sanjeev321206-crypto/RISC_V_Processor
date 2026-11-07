@@ -1,0 +1,14 @@
+# Generated simulation executables
+build/
+*.out
+*.vvp
+
+# Simulation waveform files
+*.vcd
+*.fst
+
+# Editor and operating system files
+.vscode/
+*.swp
+*~
+.DS_Store
